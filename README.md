@@ -1,7 +1,7 @@
 <img width="970" height="2268" alt="image" src="https://github.com/user-attachments/assets/94bcb1c5-d982-4b63-ba05-74954996830d" />## Hi there 👋
 
 <!--
-**nhs508336/nhs508336** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**nhs508336** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 👋 안녕하세요, 노현석입니다.
 구조물의 건전성과 내구성을 검토하는 엔지니어로서, 해석과 실측 데이터를 기반으로 구조물의 거동을 분석하고 검증하는 업무를 수행하고 있습니다.
